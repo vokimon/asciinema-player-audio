@@ -2,7 +2,7 @@
 
 Adds synced audio to asciinema console casts.
 
-This script finds any [asciinema-player]()
+This script finds any [asciinema-player](https://github.com/asciinema/asciinema-player)
 tag having `audiosrc` attribute and creates a sibbling 
 hidden `audio` tag which sinchronizes with the playback
 of the asciinema-player.
